@@ -1,5 +1,7 @@
 # Prompt Engineering Portfolio Assignment
 
+Model Used : Claude Sonnet 4.6
+
 ## Part 1: Prompt Design & Iteration
 
 ### 1.1 Three Content Generation Tasks
