@@ -1,5 +1,7 @@
 # Prompt Engineering Portfolio Assignment
 
+Name : Jagriti
+Date : 31/05/26
 Model Used : Claude Sonnet 4.6
 
 ## Part 1: Prompt Design & Iteration
